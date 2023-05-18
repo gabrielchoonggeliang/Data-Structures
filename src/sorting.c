@@ -11,7 +11,6 @@ void mergeSort(int arr[], int Lb, int Ub);
 int partition(int arr[], int lb, int ub, int partitionType);
 void quickSortv1(int arr[], int lb, int ub);
 int findMedian(int arr[], int lb, int ub);
-int partition2(int arr[], int lb, int ub, int pivotIndex);
 void quickSortv2(int arr[], int lb, int ub);
 
 // Function to get the current time in nanoseconds
