@@ -25,7 +25,7 @@ with open('output.txt', 'r') as file:
 time_taken = np.array(time_taken)
 
 # X-axis values (array sizes)
-array_sizes = [100, 10000, 50000, 75000, 500000]
+array_sizes = [100, 10000, 50000, 75000, 100000, 500000]
 
 # Create the "img" directory if it doesn't exist
 img_dir = "../img"

@@ -23,7 +23,7 @@ long long getNanoSeconds() {
 
 int main(void) {
 
-    int testValues[] = {100, 10000, 50000, 75000, 500000};
+    int testValues[] = {100, 10000, 50000, 75000, 100000, 500000};
     int numTests = sizeof(testValues) / sizeof(testValues[0]);
 
     // Define an array of sorting algorithm functions
