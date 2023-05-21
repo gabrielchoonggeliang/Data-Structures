@@ -3,3 +3,9 @@
 *.txt
 sorting
 tmp.py
+*.aux
+*.log
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.fls
