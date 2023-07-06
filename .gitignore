@@ -9,3 +9,7 @@ tmp.py
 *.out
 *.synctex.gz
 *.fls
+*.png
+Test/
+*.tex
+*.pdf
