@@ -13,3 +13,4 @@ tmp.py
 Test/
 *.tex
 *.pdf
+test.c
